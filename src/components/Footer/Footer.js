@@ -19,7 +19,7 @@ const Footer = () => {
   const classes = useStyles();
   return (
     <div className={classes.root}>
-      <Typography>El portapatatas <span role="img" aria-label="taco">🌮</span></Typography>
+      <Typography>Powered by null <span role="img" aria-label="taco">🌮</span></Typography>
     </div>
   );
 }
